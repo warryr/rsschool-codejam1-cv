@@ -1,1 +1,1 @@
-# rsschool-codejam1-cv
+My CV for RSSchool
