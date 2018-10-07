@@ -1,0 +1,68 @@
+#content{
+  width: 700px;
+  margin: auto;
+}
+
+h2, p{
+  margin: 10px;
+}
+
+img{
+  border-radius: 50%;
+}
+
+.photo{
+  display: inline;
+  position: relative;
+  top: 20px;
+  left: 10px;
+}
+
+.name{
+  position: relative;
+  top: 0;
+  text-align: center;
+  width: 200px;
+  left: 10px;
+}
+
+.contacts{
+  position: relative;
+  top: -250px;
+  left: 400px;
+  width: 300px;
+}
+
+.summary{
+  position: relative;
+  top: -100px;
+  width: 300px;
+}
+
+.skills{
+  position: relative;
+  top: -100px;
+  width: 300px;
+}
+
+.code-examples{
+  position: relative;
+  top: -200px;
+  left: 400px;
+  width: 300px;
+}
+
+.education{
+  position: relative;
+  top: -557px;
+  left: 400px;
+  width: 300px;
+}
+
+.english{
+  position: relative;
+  top: -350px;
+  width: 300px;
+}
+
+
