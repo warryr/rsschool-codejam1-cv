@@ -63,8 +63,7 @@ img{
 
 .code-examples{
   position: relative;
-  top: -220px;
-  left: 400px;
+  top: -330px;
 
   width: 300px;
 }
@@ -88,7 +87,8 @@ img{
 
 .english{
   position: relative;
-  top: -330px;
+  top: -220px;
+  left: 400px;
 
   width: 300px;
 }
