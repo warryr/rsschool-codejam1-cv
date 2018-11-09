@@ -1,0 +1,94 @@
+body{
+  background-color: #f2f2f7;
+}
+
+#content{
+  width: 700px;
+  height: auto;
+  margin: auto;
+}
+
+h1{
+  font-size: 28pt;
+  font-family: "Garamond", Times, serif;
+  text-align: center;
+  color: #8f8aa7;
+}
+
+h2, p{
+  margin: 10px;
+
+  font-family: "Candara", sans-serif;
+}
+
+img{
+  border-radius: 50%;
+}
+
+.photo{
+  position: relative;
+  top: 20px;
+  left: 10px;
+}
+
+.name{
+  position: relative;
+  top: 10px;
+  left: 10px;
+
+  width: 200px;
+}
+
+.contacts{
+  position: relative;
+  top: -250px;
+  left: 400px;
+
+  width: 300px;
+}
+
+.summary{
+  position: relative;
+  top: -80px;
+
+  width: 300px;
+}
+
+.skills{
+  position: relative;
+  top: -60px;
+
+  width: 300px;
+}
+
+.code-examples{
+  position: relative;
+  top: -330px;
+
+  width: 300px;
+}
+
+.education{
+  position: relative;
+  top: -520px;
+  left: 400px;
+
+  width: 300px;
+}
+
+#university{
+  font-size: 110%;
+  font-style: italic;
+}
+
+#date{
+  color: #8f8aa7;
+}
+
+.english{
+  position: relative;
+  top: -220px;
+  left: 400px;
+
+  width: 300px;
+}
